@@ -62,6 +62,7 @@ then open the PNG once by eye.
 | M8 | single-cell zoom | "where does this one row come from" | `box` + leader line + zoom frame |
 | M9 | causal loop | positive/negative feedback (Bjerknes, control loops) | `node_graph` ring + signs |
 | M10 | annotated chart | conclusion comes from a real curve, key points marked | native plot + `callout` |
+| M11 | step cards (in / out / code / example) | explain what each pipeline step does; reader verifies against the source | 4 cards + bottom product band + `callout` |
 
 One figure, one claim. More than 4 sequential steps or more than 2 parallel objects → split it.
 
